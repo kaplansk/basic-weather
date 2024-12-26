@@ -21,7 +21,7 @@ Technologies Used
 
 Installation
 1. Clone the repository:
-   git clone https://github.com/yourusername/basic-weather-app.git
+   git clone https://github.com/kaplansk/basic-weather.git
 
 2. Open the project folder.
 3. Launch the `index.html` file in your browser.
